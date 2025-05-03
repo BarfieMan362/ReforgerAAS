@@ -1,0 +1,8 @@
+GameProject {
+ ID "RMVehicleLock"
+ GUID "6547155B2FB51671"
+ TITLE "RM_VehicleLock"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
