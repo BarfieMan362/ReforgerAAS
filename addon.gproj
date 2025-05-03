@@ -1,0 +1,8 @@
+GameProject {
+ ID "AdvanceAndSecure"
+ GUID "65224E6E098D044B"
+ TITLE "AdvanceAndSecure"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
